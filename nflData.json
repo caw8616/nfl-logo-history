@@ -1,0 +1,806 @@
+{"leagues":[
+{
+"Division":"AFC North",
+"Team": "Ravens",
+"Years":"1996-1998",
+"TeamCity":"Baltimore"
+},
+{
+"Division":"AFC North",
+"Team": "Ravens",
+"Years":"1999-Present",
+"TeamCity":"Baltimore"
+},
+{
+"Division":"AFC North",
+"Team": "Bengals",
+"Years":"1968-1969",
+"TeamCity":"Cincinnati"
+},
+{
+"Division":"AFC North",
+"Team": "Bengals",
+"Years":"1970-1980",
+"TeamCity":"Cincinnati"
+},
+{
+"Division":"AFC North",
+"Team": "Bengals",
+"Years":"1981-1996",
+"TeamCity":"Cincinnati"
+},
+{
+"Division":"AFC North",
+"Team": "Bengals",
+"Years":"1997-2003",
+"TeamCity":"Cincinnati"
+},
+{
+"Division":"AFC North",
+"Team": "Bengals",
+"Years":"2004-Present",
+"TeamCity":"Cincinnati"
+},
+{
+"Division":"AFC North",
+"Team": "Browns",
+"Years":"1948-1958",
+"TeamCity":"Cleveland"
+},
+{
+"Division":"AFC North",
+"Team": "Browns",
+"Years":"1959-1969",
+"TeamCity":"Cleveland"
+},
+{
+"Division":"AFC North",
+"Team": "Browns",
+"Years":"1970-1985",
+"TeamCity":"Cleveland"
+},
+{
+"Division":"AFC North",
+"Team": "Browns",
+"Years":"1986-1991",
+"TeamCity":"Cleveland"
+},
+{
+"Division":"AFC North",
+"Team": "Browns",
+"Years":"1992-2005",
+"TeamCity":"Cleveland"
+},
+{
+"Division":"AFC North",
+"Team": "Browns",
+"Years":"2006-Present",
+"TeamCity":"Cleveland"
+},
+{
+"Division":"AFC North",
+"Team": "Steelers",
+"Years":"1945-1954",
+"TeamCity":"Pittsburgh"
+},
+{
+"Division":"AFC North",
+"Team": "Steelers",
+"Years":"1955-1961",
+"TeamCity":"Pittsburgh"
+},
+{
+"Division":"AFC North",
+"Team": "Steelers",
+"Years":"1962-1968",
+"TeamCity":"Pittsburgh"
+},
+{
+"Division":"AFC North",
+"Team": "Steelers",
+"Years":"1969-2001",
+"TeamCity":"Pittsburgh"
+},
+{
+"Division":"AFC North",
+"Team": "Steelers",
+"Years":"2002-Present",
+"TeamCity":"Pittsburgh"
+},
+{
+"Division":"AFC South",
+"Team": "Texans",
+"Years":"2002-Present",
+"TeamCity":"Houston"
+},
+{
+"Division":"AFC South",
+"Team": "Colts",
+"Years":"1953-1960",
+"TeamCity":"Baltimore"
+},
+{
+"Division":"AFC South",
+"Team": "Colts",
+"Years":"1961-1978",
+"TeamCity":"Baltimore"
+},
+{
+"Division":"AFC South",
+"Team": "Colts",
+"Years":"1984-2001",
+"TeamCity":"Indianapolis"
+},
+{
+"Division":"AFC South",
+"Team": "Colts",
+"Years":"2002-Present",
+"TeamCity":"Indianapolis"
+},
+{
+"Division":"AFC South",
+"Team": "Jaguars",
+"Years":"1995-2012",
+"TeamCity":"Jacksonville"
+},
+{
+"Division":"AFC South",
+"Team": "Jaguars",
+"Years":"2013-Present",
+"TeamCity":"Jacksonville"
+},
+    {
+"Division":"AFC South",
+"Team": "Titans",
+"Years":"2013-Present",
+"TeamCity":"Tennessee"
+},
+{
+"Division":"AFC South",
+"Team": "Titans",
+"Years":"1960-1961",
+"TeamCity":"Houston Oilers"
+},
+{
+"Division":"AFC South",
+"Team": "Titans",
+"Years":"1961-1968",
+"TeamCity":"Houston Oilers"
+},    
+{
+"Division":"AFC South",
+"Team": "Titans",
+"Years":"1969-1971",
+"TeamCity":"Houston Oilers"
+}, 
+{
+"Division":"AFC South",
+"Team": "Titans",
+"Years":"1972-1979",
+"TeamCity":"Houston Oilers"
+}, 
+{
+"Division":"AFC South",
+"Team": "Titans",
+"Years":"1980-1990",
+"TeamCity":"Houston Oilers"
+}, 
+{
+"Division":"AFC South",
+"Team": "Titans",
+"Years":"1999-Present",
+"TeamCity":"Tennessee"
+},
+{
+"Division":"AFC East",
+"Team": "Bills",
+"Years":"1960-1961",
+"TeamCity":"Buffalo"
+},    
+{
+"Division":"AFC East",
+"Team": "Bills",
+"Years":"1962-1964",
+"TeamCity":"Buffalo"
+},
+{
+"Division":"AFC East",
+"Team": "Bills",
+"Years":"1965-1969",
+"TeamCity":"Buffalo"
+},
+{
+"Division":"AFC East",
+"Team": "Bills",
+"Years":"1970-1973",
+"TeamCity":"Buffalo"
+},
+{
+"Division":"AFC East",
+"Team": "Bills",
+"Years":"1974-Present",
+"TeamCity":"Buffalo"
+},
+{
+"Division":"AFC East",
+"Team": "Dolphins",
+"Years":"1966-1973",
+"TeamCity":"Miami"
+},
+{
+"Division":"AFC East",
+"Team": "Dolphins",
+"Years":"1974-1989",
+"TeamCity":"Miami"
+},
+{
+"Division":"AFC East",
+"Team": "Dolphins",
+"Years":"1989-1996",
+"TeamCity":"Miami"
+},
+{
+"Division":"AFC East",
+"Team": "Dolphins",
+"Years":"1997-2012",
+"TeamCity":"Miami"
+},
+{
+"Division":"AFC East",
+"Team": "Dolphins",
+"Years":"2013-Present",
+"TeamCity":"Miami"
+},
+{
+"Division":"AFC East",
+"Team": "Patriots",
+"Years":"1960",
+"TeamCity":"New England"
+},  
+{
+"Division":"AFC East",
+"Team": "Patriots",
+"Years":"1961-1964",
+"TeamCity":"New England"
+}, 
+{
+"Division":"AFC East",
+"Team": "Patriots",
+"Years":"1965-1970",
+"TeamCity":"New England"
+}, 
+{
+"Division":"AFC East",
+"Team": "Patriots",
+"Years":"1971-1992",
+"TeamCity":"New England"
+},     
+{
+"Division":"AFC East",
+"Team": "Patriots",
+"Years":"1993-1999",
+"TeamCity":"New England"
+}, 
+{
+"Division":"AFC East",
+"Team": "Patriots",
+"Years":"2000-Present",
+"TeamCity":"New England"
+},  
+{
+"Division":"AFC East",
+"Team": "Jets",
+"Years":"1963",
+"TeamCity":"New York"
+},    
+{
+"Division":"AFC East",
+"Team": "Jets",
+"Years":"1964-1966",
+"TeamCity":"New York"
+},     
+{
+"Division":"AFC East",
+"Team": "Jets",
+"Years":"1967-1977",
+"TeamCity":"New York"
+}, 
+{
+"Division":"AFC East",
+"Team": "Jets",
+"Years":"1978-1997",
+"TeamCity":"New York"
+},     
+{
+"Division":"AFC East",
+"Team": "Jets",
+"Years":"1998-Present",
+"TeamCity":"New York"
+}, 
+{
+"Division":"AFC West",
+"Team": "Broncos",
+"Years":"1960-1961",
+"TeamCity":"Denver"
+}, 
+{
+"Division":"AFC West",
+"Team": "Broncos",
+"Years":"1962-1969",
+"TeamCity":"Denver"
+}, 
+{
+"Division":"AFC West",
+"Team": "Broncos",
+"Years":"1970-1992",
+"TeamCity":"Denver"
+}, 
+{
+"Division":"AFC West",
+"Team": "Broncos",
+"Years":"1997-Present",
+"TeamCity":"Denver"
+},     
+{
+"Division":"AFC West",
+"Team": "Chiefs",
+"Years":"1952-1955",
+"TeamCity":"Kansas City"
+},
+{
+"Division":"AFC West",
+"Team": "Chiefs",
+"Years":"1956-1971",
+"TeamCity":"Kansas City"
+},
+{
+"Division":"AFC West",
+"Team": "Chiefs",
+"Years":"1972-Present",
+"TeamCity":"Kansas City"
+},    
+{
+"Division":"AFC West",
+"Team": "Raiders",
+"Years":"1960-1962",
+"TeamCity":"Oakland"
+},    
+{
+"Division":"AFC West",
+"Team": "Raiders",
+"Years":"1963",
+"TeamCity":"Oakland"
+},      
+{
+"Division":"AFC West",
+"Team": "Raiders",
+"Years":"1964-Present",
+"TeamCity":"Oakland"
+},
+{
+"Division":"AFC West",
+"Team": "Chargers",
+"Years":"1960",
+"TeamCity":"San Diego"
+},  
+{
+"Division":"AFC West",
+"Team": "Chargers",
+"Years":"1961-1973",
+"TeamCity":"San Diego"
+}, 
+{
+"Division":"AFC West",
+"Team": "Chargers",
+"Years":"1974-1987",
+"TeamCity":"San Diego"
+}, 
+{
+"Division":"AFC West",
+"Team": "Chargers",
+"Years":"1988-2001",
+"TeamCity":"San Diego"
+}, 
+{
+"Division":"AFC West",
+"Team": "Chargers",
+"Years":"2002-2006",
+"TeamCity":"San Diego"
+}, 
+{
+"Division":"AFC West",
+"Team": "Chargers",
+"Years":"2007-Present",
+"TeamCity":"San Diego"
+}, 
+{
+"Division":"NFC North",
+"Team": "Bears",
+"Years":"1940-1953",
+"TeamCity":"Chicago"
+}, 
+{
+"Division":"NFC North",
+"Team": "Bears",
+"Years":"1954-1973",
+"TeamCity":"Chicago"
+}, 
+{
+"Division":"NFC North",
+"Team": "Bears",
+"Years":"1962-1972",
+"TeamCity":"Chicago"
+}, 
+{
+"Division":"NFC North",
+"Team": "Bears",
+"Years":"1974-Present",
+"TeamCity":"Chicago"
+}, 
+{
+"Division":"NFC North",
+"Team": "Lions",
+"Years":"1952-1960",
+"TeamCity":"Detroit"
+}, 
+{
+"Division":"NFC North",
+"Team": "Lions",
+"Years":"1961-1969",
+"TeamCity":"Detroit"
+}, 
+{
+"Division":"NFC North",
+"Team": "Lions",
+"Years":"1970-2002",
+"TeamCity":"Detroit"
+}, 
+{
+"Division":"NFC North",
+"Team": "Lions",
+"Years":"2003-2008",
+"TeamCity":"Detroit"
+}, 
+{
+"Division":"NFC North",
+"Team": "Lions",
+"Years":"2009-Present",
+"TeamCity":"Detroit"
+}, 
+{
+"Division":"NFC North",
+"Team": "Packers",
+"Years":"1951-1955",
+"TeamCity":"Green Bay"
+},
+{
+"Division":"NFC North",
+"Team": "Packers",
+"Years":"1956-1961",
+"TeamCity":"Green Bay"
+},
+{
+"Division":"NFC North",
+"Team": "Packers",
+"Years":"1961-1979",
+"TeamCity":"Green Bay"
+},
+{
+"Division":"NFC North",
+"Team": "Packers",
+"Years":"1980-Present",
+"TeamCity":"Green Bay"
+},
+{
+"Division":"NFC North",
+"Team": "Vikings",
+"Years":"1961-1965",
+"TeamCity":"Minnesota"
+},
+{
+"Division":"NFC North",
+"Team": "Vikings",
+"Years":"1966-2012",
+"TeamCity":"Minnesota"
+},
+{
+"Division":"NFC North",
+"Team": "Vikings",
+"Years":"2013-Present",
+"TeamCity":"Minnesota"
+},
+{
+"Division":"NFC South",
+"Team": "Falcons",
+"Years":"1966-1989",
+"TeamCity":"Atlanta"
+},
+{
+"Division":"NFC South",
+"Team": "Falcons",
+"Years":"1990-2002",
+"TeamCity":"Atlanta"
+},
+{
+"Division":"NFC South",
+"Team": "Falcons",
+"Years":"2003-Present",
+"TeamCity":"Atlanta"
+},
+{
+"Division":"NFC South",
+"Team": "Panthers",
+"Years":"1995-2011",
+"TeamCity":"Carolina"
+},
+{
+"Division":"NFC South",
+"Team": "Panthers",
+"Years":"2012-Present",
+"TeamCity":"Carolina"
+},
+{
+"Division":"NFC South",
+"Team": "Saints",
+"Years":"1967-1999",
+"TeamCity":"New Orleans"
+},
+{
+"Division":"NFC South",
+"Team": "Saints",
+"Years":"2000-Present",
+"TeamCity":"New Orleans"
+},
+{
+"Division":"NFC South",
+"Team": "Buccaneers",
+"Years":"1976-1996",
+"TeamCity":"Tampa Bay"
+},
+{
+"Division":"NFC South",
+"Team": "Buccaneers",
+"Years":"1997-Present",
+"TeamCity":"Tampa Bay"
+},
+{
+"Division":"NFC East",
+"Team": "Cowboys",
+"Years":"1960-1963",
+"TeamCity":"Dallas"
+},
+{
+"Division":"NFC East",
+"Team": "Cowboys",
+"Years":"1964-Present",
+"TeamCity":"Dallas"
+},
+{
+"Division":"NFC East",
+"Team": "Giants",
+"Years":"1945-1949",
+"TeamCity":"New York"
+},
+{
+"Division":"NFC East",
+"Team": "Giants",
+"Years":"1950-1955",
+"TeamCity":"New York"
+},
+{
+"Division":"NFC East",
+"Team": "Giants",
+"Years":"1956-1960",
+"TeamCity":"New York"
+},
+{
+"Division":"NFC East",
+"Team": "Giants",
+"Years":"1961-1974",
+"TeamCity":"New York"
+},
+{
+"Division":"NFC East",
+"Team": "Giants",
+"Years":"1975",
+"TeamCity":"New York"
+},
+{
+"Division":"NFC East",
+"Team": "Giants",
+"Years":"1976-1999",
+"TeamCity":"New York"
+},
+{
+"Division":"NFC East",
+"Team": "Giants",
+"Years":"2000-Present",
+"TeamCity":"New York"
+},
+{
+"Division":"NFC East",
+"Team": "Eagles",
+"Years":"1948-1968",
+"TeamCity":"Philadelphia"
+},
+{
+"Division":"NFC East",
+"Team": "Eagles",
+"Years":"1969-1972",
+"TeamCity":"Philadelphia"
+},
+{
+"Division":"NFC East",
+"Team": "Eagles",
+"Years":"1987-1995",
+"TeamCity":"Philadelphia"
+},
+{
+"Division":"NFC East",
+"Team": "Eagles",
+"Years":"1996-Present",
+"TeamCity":"Philadelphia"
+},
+{
+"Division":"NFC East",
+"Team": "Redskins",
+"Years":"1933-1936",
+"TeamCity":"Washington"
+},
+{
+"Division":"NFC East",
+"Team": "Redskins",
+"Years":"1937-1951",
+"TeamCity":"Washington"
+},
+{
+"Division":"NFC East",
+"Team": "Redskins",
+"Years":"1952-1959",
+"TeamCity":"Washington"
+},
+{
+"Division":"NFC East",
+"Team": "Redskins",
+"Years":"1960-1964",
+"TeamCity":"Washington"
+},
+{
+"Division":"NFC East",
+"Team": "Redskins",
+"Years":"1965-1969",
+"TeamCity":"Washington"
+},
+{
+"Division":"NFC East",
+"Team": "Redskins",
+"Years":"1970-1971",
+"TeamCity":"Washington"
+},
+{
+"Division":"NFC East",
+"Team": "Redskins",
+"Years":"1972-1981",
+"TeamCity":"Washington"
+},
+{
+"Division":"NFC East",
+"Team": "Redskins",
+"Years":"1982",
+"TeamCity":"Washington"
+},
+{
+"Division":"NFC East",
+"Team": "Redskins",
+"Years":"1983-Present",
+"TeamCity":"Washington"
+},  
+{
+"Division":"NFC West",
+"Team": "Cardinals",
+"Years":"1920-1946",
+"TeamCity":"Arizona"
+},
+{
+"Division":"NFC West",
+"Team": "Cardinals",
+"Years":"1947-1959",
+"TeamCity":"Arizona"
+},
+{
+"Division":"NFC West",
+"Team": "Cardinals",
+"Years":"1960-2004",
+"TeamCity":"Arizona"
+},
+{
+"Division":"NFC West",
+"Team": "Cardinals",
+"Years":"2005-Present",
+"TeamCity":"Arizona"
+},
+{
+"Division":"NFC West",
+"Team": "Rams",
+"Years":"1940-1949",
+"TeamCity":"St. Louis"
+},	
+{
+"Division":"NFC West",
+"Team": "Rams",
+"Years":"1950-1972",
+"TeamCity":"St. Louis"
+},	
+{
+"Division":"NFC West",
+"Team": "Rams",
+"Years":"1973-1980",
+"TeamCity":"St. Louis"
+},	
+{
+"Division":"NFC West",
+"Team": "Rams",
+"Years":"1981-1994",
+"TeamCity":"St. Louis"
+},	
+{
+"Division":"NFC West",
+"Team": "Rams",
+"Years":"1995-1999",
+"TeamCity":"St. Louis"
+},	
+{
+"Division":"NFC West",
+"Team": "Rams",
+"Years":"2000-Present",
+"TeamCity":"St. Louis/Los Angeles"
+},
+{
+"Division":"NFC West",
+"Team": "49ers",
+"Years":"1946-1967",
+"TeamCity":"San Francisco"
+},	
+{
+"Division":"NFC West",
+"Team": "49ers",
+"Years":"1968-1995",
+"TeamCity":"San Francisco"
+},
+{
+"Division":"NFC West",
+"Team": "49ers",
+"Years":"1996-2008",
+"TeamCity":"San Francisco"
+},
+{
+"Division":"NFC West",
+"Team": "49ers",
+"Years":"2009-Present",
+"TeamCity":"San Francisco"
+},
+{
+"Division":"NFC West",
+"Team": "Seahawks",
+"Years":"1976-2001",
+"TeamCity":"Seattle"
+},	
+{
+"Division":"NFC West",
+"Team": "Seahawks",
+"Years":"2002-2011",
+"TeamCity":"Seattle"
+},	
+{
+"Division":"NFC West",
+"Team": "Seahawks",
+"Years":"2012-Present",
+"TeamCity":"Seattle"
+}
+]}
+
+
+
+data['NFC West']=['Choose a team...','Cardinals','Rams','49ers','Seahawks']
+
+data['NFC East']=['Choose a team...','Cowboys', 'Giants', 'Eagles', 'Redskins']
